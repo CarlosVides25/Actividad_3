@@ -25,7 +25,7 @@
              String hob=request.getParameter("hobby");
              String ojo=request.getParameter("ojos");
          %>
-  <h1 align="center">  <font face="Arial" style="font-size: 40px"> Rayo <%=ojo%></font> </h1>       
+  <h1 align="center">  <font face="Arial" style="font-size: 40px"> "<%=apo%>"</font> </h1>       
          <div style="font-size: 30px">Había una vez un joven llamado <%=nomb%> <%=ape%>, 
              Tenía cabello <%=cab%> y ojos <%=ojo%> que brillaban. 
              A sus <%=edad%> años, <%=nomb%> llevaba una vida ordinaria como bibliotecario,. 
